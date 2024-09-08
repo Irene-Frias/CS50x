@@ -23,7 +23,6 @@ CS50x is Harvard University's renowned introductory course in computer science. 
 - **Harvard Quality Education:** Learn from one of the most prestigious universities in the world, with content developed by leading computer science educators.
 - **Accessible for Beginners:** No prior programming experience is required, making it an ideal course for anyone interested in starting their journey in computer science.
 - **Flexible Learning:** The course is self-paced, allowing you to progress through the material at your own speed.
-- **Community Support:** Join a global community of learners, where you can share ideas, ask questions, and collaborate on projects.
 
 ## 🚀 Get Started
 Embark on your computer science journey with CS50x, where you'll build a strong foundation in programming and develop the skills needed to tackle complex computational problems. Whether you're looking to pursue a career in tech or simply want to understand how technology works, CS50x is the perfect starting point.
