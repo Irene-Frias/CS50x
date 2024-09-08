@@ -12,7 +12,7 @@ int main(void)
     int count = 0;
     int end_digit = 0;
 
-    // Extract all the last digits.
+    // Extract all digits from the end.
     while (num > 0)
     {
         // Extract the last digit.
