@@ -37,6 +37,7 @@ int main(void)
 int score_mark(string word)
 {
     int score = 0;
+    
     // Go through the entire word to know the value to calculate.
     for (int i = 0, len = strlen(word); i < len; i++)
     {
